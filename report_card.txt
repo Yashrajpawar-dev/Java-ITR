@@ -1,0 +1,3 @@
+Name: Yashraj, Roll: 101, Total: 254, Average: 84.67, Result: Pass
+Name: Priya, Roll: 102, Total: 195, Average: 65.00, Result: Pass
+Name: Aman, Roll: 103, Total: 75, Average: 25.00, Result: Fail
