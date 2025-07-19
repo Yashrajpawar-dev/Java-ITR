@@ -54,6 +54,7 @@ for(int row =0; row < board.length; row++){
          if(board[0][col] == player && board[1][col] == player && board[2][col]== player){
         return true;
          }}
+         
          if(board[0][0] == player && board[1][1] == player && board[2][2]== player ){
             return true;
          }
